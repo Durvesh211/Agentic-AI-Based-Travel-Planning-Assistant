@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-groq
+langchain-core
+langchain-community
+langchain-classic
+openmeteo-requests
+requests-cache
+retry-requests
+pandas
+python-dotenv
