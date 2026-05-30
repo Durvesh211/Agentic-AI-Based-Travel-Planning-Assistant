@@ -151,9 +151,3 @@ python-dotenv
 - The terminal mode uses the full LangChain agent with tool-calling for a more autonomous experience.
 
 ---
-
-## 🙋 Author
-
-**Durvesh Hedau**  
-Mechatronics & Automation Engineer | AI/ML Enthusiast  
-[LinkedIn](https://linkedin.com/in/durvesh-hedau) · [GitHub](https://github.com/Durvesh211) · hedaudurvesh@gmail.com
